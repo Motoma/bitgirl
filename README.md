@@ -34,6 +34,7 @@ Personality and responsiveness are hard coded. BitGirl will go out of her way to
 Fact memory on the other hand is much more in-depth. bucket allows BitGirl to learn and forget pieces of information about topics. These are entirely controlled by users in the channels she is in, and are stored between reboots and rejoins in an SQLite database (in the data directory). When BitGirl hears something she knows about, there is a chance that she will respond with a factoid.
 
 You can teach BitGirl a fact by using the [] to highlight a keyword. For instance:
+
     <Motoma> BitGirl: [Java] is the reason I have [nightmare]s.
     ...
     <Dogstoppe> I had this mad nightmare last night.
@@ -42,6 +43,7 @@ You can teach BitGirl a fact by using the [] to highlight a keyword. For instanc
 You can have multiple factoids per word, and multiple words per factoid.
 
 Additionally, BitGirl can substitute words:
+
     <Motoma> BitGirl: <verbing> punching
     <Motoma> BitGirl: <nouns> trees
     <Motoma> BitGirl: [I love] $verbing $nouns.
