@@ -14,7 +14,7 @@ The commands she allows by default are:
     reload <script>: reloads a script and clears any saved state from memory (ex. /msg BitGirl reload bucket)
     list: lists loaded and available scripts (ex. /msg BitGirl list)
     join <channel>: causes BitGirl to join a channel (ex. /msg BitGirl join #DreamInCode)
-    leave <channel>: causes BitGirl to leave a channel (ex. /msg BitGirl leave#DreamInCode)
+    leave <channel>: causes BitGirl to leave a channel (ex. /msg BitGirl leave #DreamInCode)
 
 Everything else about BitGirl is modular, and controlled through various included plugins.
 
