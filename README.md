@@ -41,7 +41,7 @@ You can teach BitGirl a fact by using the [] to highlight a keyword. For instanc
     <BitGirl> Java is the reason I have nightmares.
 
 You can have multiple factoids per word, and multiple words per factoid.
- 
+
 Additionally, BitGirl can substitute words:
 
     <Motoma> BitGirl: <verbing> punching
