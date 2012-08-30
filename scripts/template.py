@@ -1,10 +1,11 @@
 #! /usr/bin/env python
 
 class IRCScript:
-    def __init__(self, msg, describe, nickname):
-        self.send_msg = msg
-        self.send_describe = describe
-        self.nickname = nickname
+    def __init__(self, client):
+        self.send_msg = client.msg
+        self.send_describe = client.describe
+        self.send_whois = client.whois
+        self.nickname = client.nickname
 
     def privmsg(self, user, channel, msg): pass
     def joined(self, channel): pass

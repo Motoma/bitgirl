@@ -30,9 +30,7 @@ class DICBot(irc.IRCClient):
         # Load initial scripts
         for module_name in initial_load:
             module = __import__(module_name)
-            loaded_modules[module_name] = module.IRCScript(self.msg,
-                                                           self.describe,
-                                                           self.nickname)
+            loaded_modules[module_name] = module.IRCScript(self)
         irc.IRCClient.connectionMade(self)
 
     def _get_nickname(self):
@@ -68,18 +66,14 @@ class DICBot(irc.IRCClient):
             elif msg.lower()[0:5] == 'load ':
                 module = __import__(msg[5:])
                 reload(module)
-                loaded_modules[msg[5:]] = module.IRCScript(self.msg,
-                                                           self.describe,
-                                                           self.nickname)
+                loaded_modules[msg[5:]] = module.IRCScript(self)
             elif msg.lower()[:7] == 'unload ':
                 loaded_modules.pop(msg[7:])
             elif msg.lower()[:7] == 'reload ':
                 loaded_modules.pop(msg[7:])
                 module = __import__(msg[7:])
                 reload(module)
-                loaded_modules[msg[7:]] = module.IRCScript(self.msg,
-                                                           self.describe,
-                                                           self.nickname)
+                loaded_modules[msg[7:]] = module.IRCScript(self)
             elif msg.lower()[:5] == 'join ':
                 self.join(msg[5:])
             elif msg.lower()[:6] == 'leave ':
