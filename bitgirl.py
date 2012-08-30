@@ -30,7 +30,9 @@ class DICBot(irc.IRCClient):
         # Load initial scripts
         for module_name in initial_load:
             module = __import__(module_name)
-            loaded_modules[module_name] = module.IRCScript(self.msg, self.describe, self.nickname)
+            loaded_modules[module_name] = module.IRCScript(self.msg,
+                                                           self.describe,
+                                                           self.nickname)
         irc.IRCClient.connectionMade(self)
 
     def _get_nickname(self):
@@ -52,25 +54,32 @@ class DICBot(irc.IRCClient):
                 a_mods = []
                 i_mods = []
                 modules = os.listdir(script_dir)
-                modules = [module[:-3] for module in modules if module[-3:] == '.py' and module != 'template.py']
+                modules = [module[:-3] for module in modules 
+                           if module[-3:] == '.py' and module != 'template.py']
                 for module in modules:
                     if module in loaded_modules.keys():
                         i_mods.append(module)
                     else:
                         a_mods.append(module)
-                self.msg(user, 'The following modules are installed: %s.' % (', '.join(i_mods,)))
-                self.msg(user, 'The following modules are available: %s.' % (', '.join(a_mods,)))
+                self.msg(user, 'The following modules are installed: %s.' % (
+                        ', '.join(i_mods,)))
+                self.msg(user, 'The following modules are available: %s.' % (
+                        ', '.join(a_mods,)))
             elif msg.lower()[0:5] == 'load ':
                 module = __import__(msg[5:])
                 reload(module)
-                loaded_modules[msg[5:]] = module.IRCScript(self.msg, self.describe, self.nickname)
+                loaded_modules[msg[5:]] = module.IRCScript(self.msg,
+                                                           self.describe,
+                                                           self.nickname)
             elif msg.lower()[:7] == 'unload ':
                 loaded_modules.pop(msg[7:])
             elif msg.lower()[:7] == 'reload ':
                 loaded_modules.pop(msg[7:])
                 module = __import__(msg[7:])
                 reload(module)
-                loaded_modules[msg[7:]] = module.IRCScript(self.msg, self.describe, self.nickname)
+                loaded_modules[msg[7:]] = module.IRCScript(self.msg,
+                                                           self.describe,
+                                                           self.nickname)
             elif msg.lower()[:5] == 'join ':
                 self.join(msg[5:])
             elif msg.lower()[:6] == 'leave ':
@@ -144,6 +153,9 @@ class DICBotFactory(protocol.ClientFactory):
 # Main code execution
 if __name__ == '__main__':
     sys.path.append('./%s' % (script_dir))
+
+    if len(sys.argv) > 1: SERVER = sys.argv[1]
+    if len(sys.argv) > 2: PORT = sys.argv[2]
 
     # Launch bot
     reactor.connectTCP(SERVER, PORT, DICBotFactory(CHAN, NICK))
