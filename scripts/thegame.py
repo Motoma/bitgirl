@@ -3,8 +3,6 @@
 import pickle
 import time
 
-from random import choice, random
-
 import template
 
 # 20 levels of doom and destruction!
