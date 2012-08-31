@@ -7,12 +7,8 @@ from twisted.internet import protocol
 from twisted.internet import reactor
 from twisted.words.protocols import irc
 
-# IRC info
-CHAN = '#dreamincode'
-CHAN = '#MotomaBot'
-SERVER = 'irc.efnet.org'
-PORT = 6667
-NICK = 'BitGirl'
+# Cheap way to load configuration from another file
+from config import *
 
 # Dynamically loaded script configuration
 script_dir = 'scripts'
