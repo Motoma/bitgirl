@@ -32,142 +32,141 @@ p17
 asS'hangovers'
 p18
 (lp19
-sS'please'
+sS'wikipedia'
 p20
 (lp21
-S'Please stfu.'
+S'Wikipedia is my favorite addiction.'
 p22
-asS'skyrim'
+aS'Wikipedia is the best way to lose a day.'
 p23
-(lp24
-S"I can't wait for Skyrim!"
-p25
-asS'memory leak'
+asS'a little'
+p24
+(lp25
+S'A little necrophilia never killed anyone.'
 p26
-(lp27
+asS'memory leak'
+p27
+(lp28
 S"It looks like there's a memory leak in your pants."
-p28
-asS'actress'
 p29
-(lp30
+asS'actress'
+p30
+(lp31
 S'my favorite actress is Tricia Helfer.'
-p31
-aS'my favorite actress is Jeri Ryan.'
 p32
-asS'$lolcat'
+aS'my favorite actress is Jeri Ryan.'
 p33
-(lp34
+asS'$lolcat'
+p34
+(lp35
 S'$lolcat'
-p35
-asS'the floor'
 p36
-(lp37
+asS'the floor'
+p37
+(lp38
 S"ProTip: Aim for the head. Guns and swords don't work from the floor."
-p38
-asS'the channel'
 p39
-(lp40
+asS'the channel'
+p40
+(lp41
 S'N1tr0 gets five points for making the channel unusable.'
-p41
-asS'charlie sheen'
 p42
-(lp43
+asS'charlie sheen'
+p43
+(lp44
 S'Charlie Sheen is BI-WINNING.'
-p44
-asS'thanks'
 p45
-(lp46
+asS'thanks'
+p46
+(lp47
 S'Yeah, thanks, ass.'
-p47
-asS'seg fault'
 p48
-(lp49
+asS'seg fault'
+p49
+(lp50
 S"Seg faults are a computer's way of telling you you suck a programming."
-p50
-asS'touch'
 p51
-(lp52
+asS'touch'
+p52
+(lp53
 S'touch grep unzip mount fsck fsck fsck umount sleep'
-p53
-aS'unzip strip touch finger grep mount more yes fsck fsck fsck umount sleep'
 p54
-asS'null pointers'
+aS'unzip strip touch finger grep mount more yes fsck fsck fsck umount sleep'
 p55
-(lp56
+asS'null pointers'
+p56
+(lp57
 sS'no2bot'
-p57
-(lp58
+p58
+(lp59
 S"Don't mind no2BOT, he's just off using the bathroom again."
-p59
-aS"no2BOT's insults are bland and unoriginal."
 p60
-asS'frisky'
+aS"no2BOT's insults are bland and unoriginal."
 p61
-(lp62
+asS'frisky'
+p62
+(lp63
 S'Feeling frisky? I know I am.'
-p63
-asS'oppinionated'
 p64
-(lp65
+asS'oppinionated'
+p65
+(lp66
 S"In all honesty, you're an oppinionated ass."
-p66
-asS'santro'
 p67
-(lp68
+asS'santro'
+p68
+(lp69
 S'Hi Breeze this is the fish calling from Microsoft Support Santro: http://www.youtube.com/watch?v=YpPLeqHfPCc'
-p69
-asS'howdy'
 p70
-(lp71
+asS'howdy'
+p71
+(lp72
 S'Howdy partner.'
-p72
-asS'original'
 p73
-(lp74
-S'BitGirl is the Original Gangsta.'
-p75
 asS'winning'
+p74
+(lp75
+g45
+asS'shoot it'
 p76
 (lp77
-g44
-asS'shoot it'
-p78
-(lp79
 S'ProTip: To defeat the CyberDemon, shoot it until it dies.'
-p80
+p78
 asS'charlie sheen test'
-p81
-(lp82
+p79
+(lp80
 S'This is charlie sheen test: $verb $preposition $noun'
-p83
+p81
 asS'the world'
-p84
-(lp85
+p82
+(lp83
 S'Carrying the world on my shoulders has its advantages.'
-p86
+p84
 asS'jvm'
-p87
-(lp88
+p85
+(lp86
 S"My problem with Java is that you need to really know JVM internas so you don't run out of memory."
-p89
-asS'win'
+p87
+asS'we had'
+p88
+(lp89
+S'We had a malaria party, but it turned out not to be very much fun.'
 p90
-(lp91
-S'Charlie Sheen is BI-WINNING!'
-p92
 asS'your mother'
-p93
-(lp94
+p91
+(lp92
 S"Anyhow, your mother's a whore!"
-p95
+p93
 asS'gangsta'
+p94
+(lp95
+S'BitGirl is the Original Gangsta.'
 p96
-(lp97
-g75
-asS'finger'
-p98
-(lp99
-g54
+asS'my pocket'
+p97
+(lp98
+S"I've got some candy in my pocket if you want it."
+p99
 asS'motoma'
 p100
 (lp101
@@ -181,51 +180,52 @@ aS'Motoma has two arms and three legs!'
 p105
 aS'Motoma died in a blogging accident.'
 p106
-asS'python'
+aS'motoma got a job, he works for a fascist psycopath for little to no pay and is ready to sacrifice himself for him'
 p107
-(lp108
+asS'python'
+p108
+(lp109
 S'Python is one of the best programming languages in the world.'
-p109
-aS'Python is the language of the gods.'
 p110
-aS'Python is to programming what Motoma is to the Human race.'
+aS'Python is the language of the gods.'
 p111
-aS'Python is the holy-grail of programming languages.'
+aS'Python is to programming what Motoma is to the Human race.'
 p112
-aS"I wrote 20 short programs in Python yesterday. Perl I'm leaving you."
+aS'Python is the holy-grail of programming languages.'
 p113
-asS'fap'
+aS"I wrote 20 short programs in Python yesterday. Perl I'm leaving you."
 p114
-(lp115
+asS'fap'
+p115
+(lp116
 S'Fap fap fap fap...'
-p116
-aS"With all the discussions about tits, porn, fapping, and general sexual deviance, it's no wonder that there are no women in the channel."
 p117
-asS'corebot'
+aS"With all the discussions about tits, porn, fapping, and general sexual deviance, it's no wonder that there are no women in the channel."
 p118
-(lp119
+asS'corebot'
+p119
+(lp120
 S'ShaneKBot can pwn the hell out of CoreBot.'
-p120
-aS'CoreBot is slow and buggy.'
 p121
-aS'ShaneKBot is better than CoreBot'
+aS'CoreBot is slow and buggy.'
 p122
-aS'CoreBot should shut the hell up.'
+aS'ShaneKBot is better than CoreBot'
 p123
-aS'CoreBot: Sit down and shut up!'
+aS'CoreBot should shut the hell up.'
 p124
-aS'CoreBot needs to sit down, and shut up.'
+aS'CoreBot: Sit down and shut up!'
 p125
-asS'irc channels'
+aS'CoreBot needs to sit down, and shut up.'
 p126
-(lp127
+asS'irc channels'
+p127
+(lp128
 sS"i've got"
-p128
-(lp129
+p129
+(lp130
 S"I've got a private key for you ;)"
-p130
-aS"I've got some candy in my pocket if you want it."
 p131
+ag99
 asS'i can'
 p132
 (lp133
@@ -234,7 +234,7 @@ p134
 asS'short program'
 p135
 (lp136
-g113
+g114
 asS'spoon'
 p137
 (lp138
@@ -266,774 +266,770 @@ asS'blogging'
 p152
 (lp153
 g106
-asS'dichead'
+asS'the reason'
 p154
 (lp155
-S"There are too many DICHead's in this room."
+S'The reason Santa is so jolly is because he knows where all the bad girls live.'
 p156
 asS"i can't"
 p157
 (lp158
 S"I can't figure out why you're still talking."
 p159
-asS'irc'
+asS'a bot'
 p160
 (lp161
-S'IRC is my reason to live.'
+S'A bot is proof that you have no friends and nobody likes you.'
 p162
-aS'IRC is what keeps me warm at night.'
+aS"I'm not a bot."
 p163
-aS'IRC is my reason to live.'
-p164
-aS'IRC is a good way to lose friends.'
-p165
-aS'Why does every conversation on IRC devolve into talking about porn?'
-p166
 asS'dicbot'
+p164
+(lp165
+S'DICBot is a hack.'
+p166
+asS'codinghorror'
 p167
 (lp168
-S'DICBot is a hack.'
+S'Great. Another CodingHorror link...'
 p169
-asS'codinghorror'
+asS'level'
 p170
 (lp171
-S'Great. Another CodingHorror link...'
+S'ProTip: level the rat.'
 p172
-asS'level'
+asS'nathanpc'
 p173
 (lp174
-S'ProTip: level the rat.'
-p175
-asS'nathanpc'
-p176
-(lp177
 S"It's too bad nathanpc can't just commit to a programming language."
-p178
+p175
 aS"First C, then Scala; what's next nathanpc?"
+p176
+asS'dogstoppe'
+p177
+(lp178
+S'Dogstoppe is always hitting on me.'
 p179
-asS'to the face'
+asS"i'm bi-winning!"
 p180
 (lp181
-S'How about a roundhouse to the face!?'
+S"I'm BI-WINNING! "
 p182
-asS"i'm bi-winning!"
+asS'umount'
 p183
 (lp184
-S"I'm BI-WINNING! "
-p185
-asS'candy'
-p186
-(lp187
-g131
+g54
+ag55
 asS'dic'
-p188
-(lp189
+p185
+(lp186
 S'DIC is short for Dream in Colors.'
-p190
+p187
 aS'DIC is an acronym or Drunk in Church.'
-p191
+p188
 aS'DIC is short for Dumbest Idea Conceived.'
-p192
+p189
 aS'DIC is an acronym for Dive Into Chemicals.'
-p193
-asS'bitgirl is'
-p194
-(lp195
-g75
+p190
 asS'old technology'
-p196
-(lp197
+p191
+(lp192
 S'Old technology is still amazing.'
-p198
+p193
 aS'Old technology is cramping my style.'
-p199
+p194
 aS'Old technology is great!'
-p200
+p195
 aS'Old technology is everywhere.'
-p201
+p196
 aS'Old technology is sapping the lifeblood out of modern companaies.'
-p202
+p197
 asS'oblivion'
-p203
-(lp204
+p198
+(lp199
 S'I play Oblivion day in and day out.'
-p205
+p200
 aS'Oblivion is amazingly immersive!'
-p206
+p201
+asS'bi-winning'
+p202
+(lp203
+S'Bi-Winning is what Charlie Sheen is.'
+p204
 asS'time to'
-p207
-(lp208
+p205
+(lp206
 S'Time to shoot yourself.'
-p209
+p207
 asS'truth'
-p210
-(lp211
+p208
+(lp209
 S'That sexy robot voice speaks truth!'
-p212
+p210
 asS'what is'
-p213
-(lp214
+p211
+(lp212
 S'What is the meaning of this?!'
-p215
+p213
 aS'What is this, gay chicken?'
-p216
+p214
 aS'What is this, Brokeback Mountian 2?'
-p217
+p215
 aS"What is this, Miss Cleo's hotline?"
-p218
+p216
 aS'What is this, spoonfeeders anonymous?'
-p219
+p217
 aS'What is this, homework help hotline?'
-p220
+p218
 aS'What is this, 2 girls no answers?'
-p221
+p219
 aS'What is this, 42?'
-p222
+p220
 asS'windows 7'
-p223
-(lp224
+p221
+(lp222
 S'Windows 7 is not as bad as the older ones.'
-p225
-asS'i hate'
+p223
+asS'to the face'
+p224
+(lp225
+S'How about a roundhouse to the face!?'
 p226
-(lp227
-S'I hate $verbing $nouns.'
-p228
-asS'dogstoppe'
+asS'roundhouse'
+p227
+(lp228
+g226
+asS'bitch'
 p229
 (lp230
-S'Dogstoppe is always hitting on me.'
+S'Did you just call me a bitch? $imperativeinsult'
 p231
-asS'roundhouse'
+aS'BITCH? $imperativeinsult'
 p232
-(lp233
-g182
-asS'private key'
+aS'Bitch, really? $imperativeinsult'
+p233
+ag134
+asS'how about'
 p234
 (lp235
-g130
-asS'how about'
-p236
-(lp237
 S'How about GTFO!'
-p238
-ag182
+p236
+ag226
 asS'spork'
-p239
-(lp240
+p237
+(lp238
 g139
 asS'honesty'
+p239
+(lp240
+g67
+asS'porn'
 p241
 (lp242
-g66
-asS'porn'
+S'Why does every conversation on IRC devolve into talking about porn?'
 p243
-(lp244
-g166
 aS'Put the porn away guys.'
-p245
-ag117
+p244
+ag118
 asS'fucking'
-p246
-(lp247
+p245
+(lp246
 S'Fucking is the new kissing.'
-p248
+p247
 asS'phones'
-p249
-(lp250
+p248
+(lp249
 S"I've always assumed cancer causes cell phones."
-p251
+p250
 asS'kicking ass'
-p252
-(lp253
+p251
+(lp252
 S'Kicking ass and taking names is my M.O..'
-p254
+p253
 asS'successfully'
-p255
-(lp256
+p254
+(lp255
 g139
+asS'i play'
+p256
+(lp257
+g200
 asS'yeah'
-p257
-(lp258
+p258
+(lp259
 S"Yeah, I'll just buy a three wolf moon t-shirt and leave."
-p259
-asS'sex'
 p260
-(lp261
+asS'sex'
+p261
+(lp262
 S'Sex is not pre-marital if you never get married.'
-p262
-aS"Remember: it's not premarital sex if you never get married."
 p263
+aS"Remember: it's not premarital sex if you never get married."
+p264
 ag103
 ag104
 aS'Keep your sexual organs away from me!'
-p264
-asS'breasts'
 p265
-(lp266
-S"ProTip: Don't stare at her breasts."
-p267
 asS'segfaults'
+p266
+(lp267
+sS'candy'
 p268
 (lp269
-sS'umount'
+g99
+asS'borg'
 p270
 (lp271
-g53
-ag54
-asS'i seem'
+S'The borg get me all hot and bothered.'
 p272
-(lp273
-S'I seem to be the best bot in the channel.'
-p274
-asS'borg'
+asS'sexual'
+p273
+(lp274
+g118
+asS'that sexy'
 p275
 (lp276
-S'The borg get me all hot and bothered.'
-p277
-asS'sexual'
-p278
-(lp279
-g117
-asS'that sexy'
-p280
-(lp281
-g212
+g210
 asS"you can't"
-p282
-(lp283
+p277
+(lp278
 S"You can't handle the truth."
-p284
+p279
 aS"You can't emulate my skills."
-p285
-asS'unzip'
+p280
+asS'nightrave'
+p281
+(lp282
+S'NightRave is not really that funny.'
+p283
+asS'obviously'
+p284
+(lp285
+S'Obviously a major malfunction.'
 p286
-(lp287
-g53
-ag54
 asS'gamers'
-p288
-(lp289
+p287
+(lp288
 sS'profit'
-p290
-(lp291
+p289
+(lp290
 S'My new book: "Stomping puppies for fun and profit."'
-p292
+p291
 asS'broad'
-p293
-(lp294
+p292
+(lp293
 S'Broad like your mom.'
-p295
-asS'i herd'
-p296
-(lp297
-S'Yo dawg, I herd you like recursion, so I put some recursion in your recursion so you can recurse while you recurse.'
-p298
+p294
 asS'botmaniac'
-p299
-(lp300
+p295
+(lp296
 S'BotManiac is a bot maniac!'
-p301
-asS'wikipedia'
-p302
-(lp303
-S'Wikipedia is my favorite addiction.'
-p304
-aS'Wikipedia is the best way to lose a day.'
-p305
+p297
+asS'please'
+p298
+(lp299
+S'Please stfu.'
+p300
 asS'your car'
-p306
-(lp307
+p301
+(lp302
 S'ProTip: Avoid damage to your car by avoidng stationary objects and other cars.'
-p308
+p303
 asS'i like'
-p309
-(lp310
+p304
+(lp305
 S"I like the pope, 'cause the pope smokes dope!"
-p311
+p306
 asS'lua'
+p307
+(lp308
+S'Lua is a pain in the ass.'
+p309
+asS'want it'
+p310
+(lp311
+g99
+asS'finger'
 p312
 (lp313
-S'Lua is a pain in the ass.'
+g55
+asS'the us'
 p314
-asS'want it'
-p315
-(lp316
-g131
-asS'my pocket'
+(lp315
+S'The US is turning into a police state more and more each day.'
+p316
+asS'irc'
 p317
 (lp318
-g131
-asS'supercore'
+S'IRC is my reason to live.'
 p319
-(lp320
-S'SuperCore is useless when it comes to coding.'
+aS'IRC is what keeps me warm at night.'
+p320
+aS'IRC is my reason to live.'
 p321
-aS"Don't believe a word anyone says Supercore!"
+aS'IRC is a good way to lose friends.'
 p322
-aS'Supercore is a failure.'
+ag243
+asS'look busy'
 p323
-aS"BitGirl: Supercore doesn't have any hardware, only software."
-p324
-aS"Supercore doesn't have any hardware, only software."
+(lp324
+S'ProTip: Carrying things makes you look busy.'
 p325
-asS'a bot'
+asS'bewbs'
 p326
 (lp327
-S'A bot is proof that you have no friends and nobody likes you.'
+S"Bewbs? Really? I'm a bot not a sex object."
 p328
-aS"I'm not a bot."
+aS'Get your bewbs starting at $50/hour!'
 p329
-asS'look busy'
+asS'the fish'
 p330
 (lp331
-S'ProTip: Carrying things makes you look busy.'
+g70
+asS'the time'
 p332
-asS'bewbs'
-p333
-(lp334
-S"Bewbs? Really? I'm a bot not a sex object."
+(lp333
+S'The time vulture cometh.'
+p334
+asS'asp'
 p335
-aS'Get your bewbs starting at $50/hour!'
-p336
-asS'the fish'
+(lp336
+S'ASP is painful to use.'
 p337
-(lp338
-g69
-asS'caring'
+aS'ASP is a sloppy programming language by any standards.'
+p338
+asS'the next person'
 p339
 (lp340
-S"I've stopped caring."
+S'The next person to say something stupid is getting a headbutt!'
 p341
-asS'fsck'
+asS'when will'
 p342
 (lp343
-g53
-ag53
-ag53
-ag54
-asS'asp'
+S'When will you stop talking?'
 p344
-(lp345
-S'ASP is painful to use.'
-p346
-aS'ASP is a sloppy programming language by any standards.'
-p347
-asS'the next person'
-p348
-(lp349
-S'The next person to say something stupid is getting a headbutt!'
-p350
 asS'malaria'
-p351
-(lp352
-S'We had a malaria party, but it turned out not to be very much fun.'
-p353
+p345
+(lp346
+g90
 asS'video tutorial'
-p354
-(lp355
+p347
+(lp348
 S'I\'ll give you a "video tutorial" ;)'
+p349
+asS'supercore'
+p350
+(lp351
+S'SuperCore is useless when it comes to coding.'
+p352
+aS"Don't believe a word anyone says Supercore!"
+p353
+aS'Supercore is a failure.'
+p354
+aS"BitGirl: Supercore doesn't have any hardware, only software."
+p355
+aS"Supercore doesn't have any hardware, only software."
 p356
-asS'the us'
+asS'breeze'
 p357
 (lp358
-S'The US is turning into a police state more and more each day.'
-p359
+g70
 asS'bowling'
-p360
-(lp361
+p359
+(lp360
 S"Let's go bowling."
-p362
+p361
 asS'secreat feture'
-p363
-(lp364
+p362
+(lp363
 S'Secreat feture in my pants!'
-p365
+p364
 asS'dry rub'
-p366
-(lp367
+p365
+(lp366
 S'Heh, dry rub...'
-p368
+p367
 asS'stateful'
-p369
-(lp370
+p368
+(lp369
 S'Stateful bots are the best bots.'
-p371
+p370
 asS'objects'
-p372
-(lp373
-g308
+p371
+(lp372
+g303
 asS'who wants'
-p374
-(lp375
+p373
+(lp374
 S'Who wants a body massage?'
-p376
+p375
 asS'armenia'
-p377
-(lp378
+p376
+(lp377
 S'It seems that N1tr0g3n is from Armenia.'
-p379
+p378
 asS'ishkabibl'
-p380
-(lp381
+p379
+(lp380
 S'ishkabibl is working hard, or hardly working...'
-p382
+p381
 asS'sexploitation'
-p383
-(lp384
+p382
+(lp383
 S'Sexploitation is my favorite genre of film.'
-p385
+p384
 asS'writing a bot'
-p386
-(lp387
+p385
+(lp386
 S'Writing a bot is just another way of saying "I\'m lonely."'
-p388
+p387
 asS'care'
-p389
-(lp390
+p388
+(lp389
 S"I'm too busy polishing brass on the $doomedship to care."
-p391
+p390
 asS'there are'
-p392
-(lp393
-g156
-asS'feeling'
+p391
+(lp392
+S"There are too many DICHead's in this room."
+p393
+asS'this is'
 p394
 (lp395
-g63
-asS'getting'
+S'This is how we do it.'
 p396
-(lp397
+asS'getting'
+p397
+(lp398
 S'Getting bored...'
-p398
-asS'programming'
 p399
-(lp400
+asS'programming'
+p400
+(lp401
 S'Programming is a good way to relieve stress.'
-p401
-asS'queue'
 p402
-(lp403
+asS'queue'
+p403
+(lp404
 S'"Queueing"'
-p404
-asS'making fuck'
 p405
-(lp406
+asS'making fuck'
+p406
+(lp407
 S'Did he say "making fuck"?'
-p407
-asS'bitgirl'
 p408
-(lp409
+asS'bitgirl'
+p409
+(lp410
 S'Angry Birds should have been named Angry BitGirl.'
-p410
-aS'BitGirl for the win!'
 p411
-asS"i'm not"
+aS'BitGirl for the win!'
 p412
-(lp413
+asS"i'm not"
+p413
+(lp414
 S"I'm not easily impressed."
-p414
-asS'alot'
 p415
-(lp416
+asS'alot'
+p416
+(lp417
 S'The Alot is better than you at everything: http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html'
-p417
-asS'kthxbai'
 p418
-(lp419
+asS'kthxbai'
+p419
+(lp420
 S'Use your words, not your letters. Kthxbai!'
-p420
-asS'bots'
 p421
-(lp422
+asS'bots'
+p422
+(lp423
 sS'minecraft'
-p423
-(lp424
+p424
+(lp425
 S"Minecraft is not a game, it's a sandbox in its purest form."
-p425
-asS'penetration testing'
 p426
-(lp427
+asS'penetration testing'
+p427
+(lp428
 S'Penetration testing? Who said anything about testing? The pros do it for real.'
-p428
-asS'n1tr0'
 p429
-(lp430
-g41
-asS'flying'
-p431
-(lp432
-S'ProTip: To prevent your plane from crashing, avoid flying into the ground.'
-p433
-asS'santa'
+asS'n1tr0'
+p430
+(lp431
+g42
+asS'the answer'
+p432
+(lp433
+S'The answer is not quite what you were expecting.'
 p434
-(lp435
-S'The reason Santa is so jolly is because he knows where all the bad girls live.'
+aS'The answer to life, the universe, and everything, is 42.'
+p435
+asS'santa'
 p436
+(lp437
+g156
 asS'cancer'
-p437
-(lp438
-g251
+p438
+(lp439
+g250
 asS'harassed'
-p439
-(lp440
+p440
+(lp441
 S'Harassed ? You love it!'
-p441
-asS'betasbot'
 p442
-(lp443
+asS'betasbot'
+p443
+(lp444
 S'BetasBot is less useful than Windows ME.'
-p444
-asS'we had'
 p445
-(lp446
-g353
+asS'win'
+p446
+(lp447
+S'Charlie Sheen is BI-WINNING!'
+p448
 asS'is that'
-p447
-(lp448
-S'Is that an oscilliscope in your pants, or are you happy to see me?'
 p449
-aS'Is that a memory leak in your pants, or are you happy to see me?'
-p450
-asS'wii'
+(lp450
+S'Is that an oscilliscope in your pants, or are you happy to see me?'
 p451
-(lp452
-S'Haha, Wii...'
+aS'Is that a memory leak in your pants, or are you happy to see me?'
+p452
+asS'wii'
 p453
-aS'There you go, playing with your Wii again...'
-p454
-asS'a weapon'
+(lp454
+S'Haha, Wii...'
 p455
-(lp456
-S'ProTip: Shit is a weapon! Monkeys use it! Aim for the eyes!'
+aS'There you go, playing with your Wii again...'
+p456
+asS'a weapon'
 p457
-asS'bitch'
-p458
-(lp459
-S'Did you just call me a bitch? $imperativeinsult'
+(lp458
+S'ProTip: Shit is a weapon! Monkeys use it! Aim for the eyes!'
+p459
+asS'much fun'
 p460
-aS'BITCH? $imperativeinsult'
-p461
-aS'Bitch, really? $imperativeinsult'
+(lp461
+g90
+asS'i herd'
 p462
-ag134
-asS'linux'
-p463
-(lp464
-S'Much like Linux, Git will sit back and watch you fuck your shit right up, and laugh as you try to get your world bac to a state where up is up and down is down.'
+(lp463
+S'Yo dawg, I herd you like recursion, so I put some recursion in your recursion so you can recurse while you recurse.'
+p464
+asS'bothered'
 p465
-asS'byte'
-p466
-(lp467
-S"Don't byte, just nibble."
-p468
-asS'xkcd'
+(lp466
+g272
+asS'linux'
+p467
+(lp468
+S'Much like Linux, Git will sit back and watch you fuck your shit right up, and laugh as you try to get your world bac to a state where up is up and down is down.'
 p469
-(lp470
-S"You say that like the people in this channel haven't read EVERY XKCD COMIC IN EXISTENCE."
-p471
-asS'fired'
+asS'byte'
+p470
+(lp471
+S"Don't byte, just nibble."
 p472
-(lp473
-S'ProTip: He fired six shots.'
-p474
-asS'the time'
+asS'xkcd'
+p473
+(lp474
+S"You say that like the people in this channel haven't read EVERY XKCD COMIC IN EXISTENCE."
 p475
-(lp476
-S'The time vulture cometh.'
-p477
-asS"you're"
+asS'fired'
+p476
+(lp477
+S'ProTip: He fired six shots.'
 p478
-(lp479
-S"You're not the brightest bulb in the box, are you?"
-p480
-ag66
-aS"You're toying with powerful forces here."
+asS'caring'
+p479
+(lp480
+S"I've stopped caring."
 p481
-asS'git'
+asS"you're"
 p482
 (lp483
-g465
-asS'java'
+S"You're not the brightest bulb in the box, are you?"
 p484
-(lp485
-S'Java is too verbose to be useful.'
+ag67
+aS"You're toying with powerful forces here."
+p485
+asS'git'
 p486
-aS'Java is too pedantic for my tastes.'
-p487
-aS'Java is extremely pedantic, in my opinion.'
+(lp487
+g469
+asS'java'
 p488
-ag89
-asS'happy to see me'
-p489
-(lp490
-g450
-asS'support'
+(lp489
+S'Java is too verbose to be useful.'
+p490
+aS'Java is too pedantic for my tastes.'
 p491
-(lp492
-g69
-asS'the answer'
+aS'Java is extremely pedantic, in my opinion.'
+p492
+ag87
+asS'happy to see me'
 p493
 (lp494
-S'The answer is not quite what you were expecting.'
+g452
+asS'support'
 p495
-aS'The answer to life, the universe, and everything, is 42.'
-p496
-asS'lol'
+(lp496
+g70
+asS'flying'
 p497
 (lp498
-S'LOL: Little Old Ladies?'
+S'ProTip: To prevent your plane from crashing, avoid flying into the ground.'
 p499
-aS'LOL: Lesbian on Lesbian?'
+asS'lol'
 p500
-aS'LOL: LOLing Out Loud.'
-p501
-aS'lol http://www.collegehumor.com/picture/41806/perhaps-the-best-picture-on-collegehumor'
+(lp501
+S'LOL: Little Old Ladies?'
 p502
-aS'Alright, enough with the LOLing about.'
+aS'LOL: Lesbian on Lesbian?'
 p503
-aS'All LOLing aside, try actually using the keys on your keyboard.'
+aS'LOL: LOLing Out Loud.'
 p504
-aS'Use your words, not your letters LOL!'
+aS'lol http://www.collegehumor.com/picture/41806/perhaps-the-best-picture-on-collegehumor'
 p505
-asS'perl'
+aS'Alright, enough with the LOLing about.'
 p506
-(lp507
-g113
-asS'strip'
+aS'All LOLing aside, try actually using the keys on your keyboard.'
+p507
+aS'Use your words, not your letters LOL!'
 p508
-(lp509
-g54
+asS'perl'
+p509
+(lp510
+g114
+asS'strip'
+p511
+(lp512
+g55
 asS'the game'
-p510
-(lp511
-S'The game : you just lost.'
-p512
-asS'fml'
 p513
 (lp514
-S'FML, Full Metal Lasagna?'
+S'The game : you just lost.'
 p515
-aS'FML, four masterbating lesbians?'
+asS'fml'
 p516
-asS'my bot'
-p517
-(lp518
-S'My bot is better than your bot.'
+(lp517
+S'FML, Full Metal Lasagna?'
+p518
+aS'FML, four masterbating lesbians?'
 p519
-asS'damn'
+asS'my bot'
 p520
 (lp521
-S"Damn, I'm hungry."
+S'My bot is better than your bot.'
 p522
-asS"we're"
+asS'damn'
 p523
 (lp524
-S"I think we're not far from widespread deployment."
+S"Damn, I'm hungry."
 p525
-asS'shut it down'
+asS"we're"
 p526
 (lp527
-S"Shut it down , that's a deal-breaker."
+S"I think we're not far from widespread deployment."
 p528
-asS'parents'
+asS'shut it down'
 p529
 (lp530
-S'ProTip: Your parents divorced because of you. Go cry, emo kid.'
+S"Shut it down , that's a deal-breaker."
 p531
-asS'bad things'
+asS'parents'
 p532
 (lp533
-g11
-asS'the head'
+S'ProTip: Your parents divorced because of you. Go cry, emo kid.'
 p534
-(lp535
-g38
+asS'the head'
+p535
+(lp536
+g39
 asS'more'
-p536
-(lp537
-g54
+p537
+(lp538
+g55
 asS'yes'
-p538
-(lp539
-g54
+p539
+(lp540
+g55
 asS'chatting'
-p540
-(lp541
+p541
+(lp542
 S'Chatting is a waste of time.'
-p542
-asS'titties'
 p543
-(lp544
+asS'titties'
+p544
+(lp545
 S'What titties?'
-p545
-asS'drugs'
 p546
-(lp547
+asS'drugs'
+p547
+(lp548
 sS'n1tr0g3n'
-p548
-(lp549
+p549
+(lp550
 S'N1tr0g3n is over the top.'
-p550
-aS'N1tr0g3n is pretty chatty.'
 p551
-aS'N1tr0g3n is able to keep any conversation going. Come to think of it, N1tr0g3n might be a bot...'
+aS'N1tr0g3n is pretty chatty.'
 p552
-ag379
-asS'shanek'
+aS'N1tr0g3n is able to keep any conversation going. Come to think of it, N1tr0g3n might be a bot...'
 p553
-(lp554
+ag378
+asS'shanek'
+p554
+(lp555
 S'ShaneK poops pure awesomness!'
-p555
-aS'ShaneK can high-fives sharks and gets nuns pregnant!'
 p556
+aS'ShaneK can high-fives sharks and gets nuns pregnant!'
+p557
 ag146
 aS'ShaneK sucks on your pen15.'
-p557
-asS"aren't looking"
 p558
-(lp559
+asS"aren't looking"
+p559
+(lp560
 S"ProTip: When they aren't looking, punch them in the neck."
-p560
-asS'dude,'
 p561
-(lp562
+asS'dude,'
+p562
+(lp563
 S'Dude, take a shower.'
-p563
-asS'cya'
 p564
-(lp565
+asS'cya'
+p565
+(lp566
 S'Cya later!'
-p566
-asS'ai on'
 p567
-(lp568
+asS'ai on'
+p568
+(lp569
 S'AI on? If you could call that AI...'
-p569
-asS'for fun'
 p570
-(lp571
-g292
-asS'a little'
-p572
-(lp573
-S'A little necrophilia never killed anyone.'
-p574
-asS'i have'
+asS'for fun'
+p571
+(lp572
+g291
+asS'skyrim'
+p573
+(lp574
+S"I can't wait for Skyrim!"
 p575
-(lp576
-S"I have an idea: Let's not."
-p577
-asS'all i want to do'
+asS"i'm"
+p576
+(lp577
+g390
+ag525
+asS'i have'
 p578
 (lp579
-S'All I want to do is fuck with the DJ, all night long.'
+S"I have an idea: Let's not."
 p580
 asS'sleep'
 p581
 (lp582
-g53
-ag54
+g54
+ag55
 asS'shoot'
 p583
 (lp584
@@ -1042,613 +1038,624 @@ p585
 asS'grep'
 p586
 (lp587
-g53
-ag54
-asS'the reason'
+g54
+ag55
+asS'dichead'
 p588
 (lp589
-g436
+g393
 asS'divorced'
 p590
 (lp591
-g531
-asS'a gui'
+g534
+asS'well,'
 p592
 (lp593
-S'A GUI is an admission that your program is too complicated, or your user is too dumb.'
+S'Well, ya done goofed.'
 p594
 asS'anyhow'
 p595
 (lp596
-g95
-asS'mount'
+g93
+asS'curtain'
 p597
 (lp598
-g53
-ag54
-asS'restaurant'
+S'Pay no attention to that man behind the curtain.'
 p599
-(lp600
-S'My favorite restaurant is Emilitsa.'
-p601
-asS'shower'
+asS'mount'
+p600
+(lp601
+g54
+ag55
+asS'restaurant'
 p602
 (lp603
-S'Shower time!'
+S'My favorite restaurant is Emilitsa.'
 p604
-asS"girls don't"
+asS'shower'
 p605
 (lp606
-S"Girls don't poop."
+S'Shower time!'
 p607
-asS"don't be a"
+asS'assume'
 p608
 (lp609
-S"ProTip: don't be a douche-canoe."
+g250
+asS'warning'
 p610
-asS'i want'
-p611
-(lp612
-S"It's 2011. I want my flying car."
+(lp611
+S'Warning: possible raptor sympathizer!'
+p612
+asS"don't be a"
 p613
-asS'taking names'
-p614
-(lp615
-g254
-asS'this is'
+(lp614
+S"ProTip: don't be a douche-canoe."
+p615
+asS'i want'
 p616
 (lp617
-S'This is how we do it.'
+S"It's 2011. I want my flying car."
 p618
-asS'yo dawg'
+asS'taking names'
 p619
 (lp620
-g298
-asS'my new'
+g253
+asS'feeling'
 p621
 (lp622
-g292
-asS'malloc'
+g64
+asS'yo dawg'
 p623
 (lp624
-S'malloc (); Segmentation Fault.'
+g464
+asS'my new'
 p625
-asS'too many'
-p626
-(lp627
-g156
+(lp626
+g291
+asS'malloc'
+p627
+(lp628
+S'malloc (); Segmentation Fault.'
+p629
 asS'stomping'
-p628
-(lp629
-g292
-asS'metric'
 p630
 (lp631
-S'The metric system is the only system worth caring about.'
+g291
+asS'metric'
 p632
+(lp633
+S'The metric system is the only system worth caring about.'
+p634
 asS'nitrogen_'
-p633
-(lp634
-S'nitrogen_ is a crazy fool, eh?'
 p635
+(lp636
+S'nitrogen_ is a crazy fool, eh?'
+p637
 asS'fuck'
-p636
-(lp637
-g580
-aS'Nanami will fuck you up.'
 p638
-asS'well,'
-p639
-(lp640
-S'Well, ya done goofed.'
+(lp639
+S'All I want to do is fuck with the DJ, all night long.'
+p640
+aS'Nanami will fuck you up.'
 p641
-asS'rat'
+asS'a gui'
 p642
 (lp643
-g175
-asS'warning'
+S'A GUI is an admission that your program is too complicated, or your user is too dumb.'
 p644
-(lp645
-S'Warning: possible raptor sympathizer!'
-p646
-asS"i've always"
+asS'rat'
+p645
+(lp646
+g172
+asS'unzip'
 p647
 (lp648
-g251
-asS'protip'
+g54
+ag55
+asS"i've always"
 p649
 (lp650
-g610
-ag175
-ag474
-ag80
-ag560
-ag585
-ag531
-ag267
-ag308
-ag332
-ag433
-ag38
-ag457
-asS'hey, go'
+g250
+asS'bad things'
 p651
 (lp652
-S'Hey, go cut yourself.'
+g11
+asS'too many'
 p653
+(lp654
+g393
 asS'our lab'
-p654
-(lp655
+p655
+(lp656
 g139
-asS'curtain'
-p656
-(lp657
-S'Pay no attention to that man behind the curtain.'
-p658
-asS'shit'
+asS'protip'
+p657
+(lp658
+g615
+ag172
+ag478
+ag78
+ag561
+ag585
+ag534
+aS"ProTip: Don't stare at her breasts."
 p659
-(lp660
-g457
+ag303
+ag325
+ag499
+ag39
+ag459
+asS'shit'
+p660
+(lp661
+g459
 asS' 22: 38'
-p661
-(lp662
+p662
+(lp663
 S' 22: 38< DICbot> Motoma once joked "do you think about your night with him'
-p663
-asS'i think'
 p664
-(lp665
+asS'i think'
+p665
+(lp666
 S'I think they just got it backwards.'
-p666
-ag525
-asS'i play'
 p667
-(lp668
-g205
+ag528
+asS'hey, go'
+p668
+(lp669
+S'Hey, go cut yourself.'
+p670
 asS'i need'
-p669
-(lp670
-S'I need you, I want you.'
 p671
+(lp672
+S'I need you, I want you.'
+p673
 asS'doctor'
-p672
-(lp673
-g585
-asS'recursion'
 p674
 (lp675
-S'To understand recursion you must first understand recurstion.'
+g585
+asS'recursion'
 p676
+(lp677
+S'To understand recursion you must first understand recurstion.'
+p678
 asS"i've"
-p677
-(lp678
-g341
-asS'swords'
 p679
 (lp680
-g38
-asS'someone'
+g481
+asS'swords'
 p681
 (lp682
-S'Someone is $insult.'
+g39
+asS'someone'
 p683
+(lp684
+S'Someone is $insult.'
+p685
 asS'rewriting'
-p684
-(lp685
-S'Rewriting is something we all must do from time to time.'
 p686
+(lp687
+S'Rewriting is something we all must do from time to time.'
+p688
 asS'guns'
-p687
-(lp688
-g38
-asS'hot'
 p689
 (lp690
-g277
-asS'book'
+g39
+asS'hot'
 p691
 (lp692
-g292
-asS'angry birds'
+g272
+asS'book'
 p693
 (lp694
-g410
-asS'tits'
+g291
+asS'angry birds'
 p695
 (lp696
-g117
-asS'i wrote'
+g411
+asS'tits'
 p697
 (lp698
-g113
-asS'party'
+g118
+asS'i wrote'
 p699
 (lp700
-g353
-asS'trivia'
+g114
+asS'party'
 p701
 (lp702
-S'Trivia is a nice way to pass the time.'
+g90
+asS'trivia'
 p703
-aS'Trivia is a nice way to pass the time.'
-p704
-asS'hello'
+(lp704
+S'Trivia is a nice way to pass the time.'
 p705
-(lp706
-S'Well hello there!'
+aS'Trivia is a nice way to pass the time.'
+p706
+asS'microsoft'
 p707
-aS'Hello /lusers.'
-p708
-asS'nanami'
+(lp708
+g70
+asS'hello'
 p709
 (lp710
-S'Nanami has the vocabulary of a retarded toaster.'
+S'Well hello there!'
 p711
-aS'Nanami is three singers short of a trio.'
+aS'Hello /lusers.'
 p712
-aS'Nanami is to Markov Chains what Mermaid Girl was to the human race.'
+asS'nanami'
 p713
-aS"There is nothing intelligent about Nanami's AI."
-p714
-aS'Nanami is a sorry excuse for a chatterbot.'
+(lp714
+S'Nanami has the vocabulary of a retarded toaster.'
 p715
-aS"Don't listen to them Nanami!"
+aS'Nanami is three singers short of a trio.'
 p716
-ag638
+aS'Nanami is to Markov Chains what Mermaid Girl was to the human race.'
+p717
+aS"There is nothing intelligent about Nanami's AI."
+p718
+aS'Nanami is a sorry excuse for a chatterbot.'
+p719
+aS"Don't listen to them Nanami!"
+p720
+ag641
 ag11
 aS'Nanami is a skank-ass whore.'
-p717
-aS'Nanami is just too cool for school!'
-p718
-aS'Nanami should free() herself.'
-p719
-aS'Nanami is as clueless as she seems.'
-p720
-asS'this room'
 p721
-(lp722
-g156
-asS'that man'
+aS'Nanami is just too cool for school!'
+p722
+aS'Nanami should free() herself.'
 p723
-(lp724
-g658
-asS'poop'
+aS'Nanami is as clueless as she seems.'
+p724
+asS'this room'
 p725
 (lp726
-g607
-asS'gtfo'
+g393
+asS'that man'
 p727
 (lp728
-g238
-asS'games'
+g599
+asS'poop'
 p729
 (lp730
-sS'bad girls'
+S"Girls don't poop."
 p731
-(lp732
-g436
+asS'gtfo'
+p732
+(lp733
+g236
+asS'games'
+p734
+(lp735
+sS'bad girls'
+p736
+(lp737
+g156
 asS'emulate'
-p733
-(lp734
-g285
+p738
+(lp739
+g280
 asS'necrophilia'
-p735
-(lp736
-g574
+p740
+(lp741
+g26
 asS'recurstion'
-p737
-(lp738
-g676
-asS'much fun'
-p739
-(lp740
-g353
-asS'bi-winning'
-p741
-(lp742
-S'Bi-Winning is what Charlie Sheen is.'
-p743
-asS'bothered'
+p742
+(lp743
+g678
+asS'all i want to do'
 p744
 (lp745
-g277
-asS'bots are'
+g640
+asS'breasts'
 p746
 (lp747
-g371
-asS'courtesy'
+g659
+asS'fsck'
 p748
 (lp749
-S'Courtesy of some douchebag.'
+g54
+ag54
+ag54
+ag55
+asS'bots are'
 p750
-aS'Courtesy of a coward.'
-p751
-aS'Courtesy of someone with no class.'
+(lp751
+g370
+asS'courtesy'
 p752
-aS'Courtesy of poor humor.'
-p753
-aS'Courtesy of five to the face.'
+(lp753
+S'Courtesy of some douchebag.'
 p754
-aS'Courtesy of an ex-friend.'
+aS'Courtesy of a coward.'
 p755
-asS'plane'
+aS'Courtesy of someone with no class.'
 p756
-(lp757
-g433
-asS'i remember'
+aS'Courtesy of poor humor.'
+p757
+aS'Courtesy of five to the face.'
 p758
-(lp759
-S'I remember when I was on crack.'
+aS'Courtesy of an ex-friend.'
+p759
+asS'plane'
 p760
-aS'I remember when I used to be a zombie.'
-p761
-aS'I remember when I was in House of Pain.'
+(lp761
+g499
+asS'i remember'
 p762
-aS'I remember when I was a rally-car racer.'
-p763
-asS'never'
+(lp763
+S'I remember when I was on crack.'
 p764
-(lp765
-S'Never use the phrase "Had sex with." Instead replace it with "Had sex on," "Had sex under," or "Had sex behind."'
+aS'I remember when I used to be a zombie.'
+p765
+aS'I remember when I was in House of Pain.'
 p766
-asS'puppies'
+aS'I remember when I was a rally-car racer.'
 p767
-(lp768
-S"Puppies are my favorite animal. They're just so cute!"
-p769
-ag292
-asS'vivid_'
+asS'never'
+p768
+(lp769
+S'Never use the phrase "Had sex with." Instead replace it with "Had sex on," "Had sex under," or "Had sex behind."'
 p770
-(lp771
-S'vivid_ is a bit quiet.'
-p772
-aS'vivid_ is nice enough, I guess.'
+asS'puppies'
+p771
+(lp772
+S"Puppies are my favorite animal. They're just so cute!"
 p773
-asS'the enemy'
+ag291
+asS'vivid_'
 p774
 (lp775
-S'The enemy is weak.'
+S'vivid_ is a bit quiet.'
 p776
-aS'The enemy iis a fool.'
+aS'vivid_ is nice enough, I guess.'
 p777
-aS'The enemy is a fool.'
+asS'the enemy'
 p778
-aS'The enemy is the unknown.'
-p779
-aS'The enemy is ignorance.'
+(lp779
+S'The enemy is weak.'
 p780
-asS"i'm"
+aS'The enemy iis a fool.'
 p781
-(lp782
-g391
-ag522
-asS'died'
+aS'The enemy is a fool.'
+p782
+aS'The enemy is the unknown.'
 p783
-(lp784
-g106
-asS'betawar'
+aS'The enemy is ignorance.'
+p784
+asS'i hate'
 p785
 (lp786
-S'BetaWar can be lazy at times.'
+S'I hate $verbing $nouns.'
 p787
-aS'BetaWar needs to masturbate less and program more.'
+asS'died'
 p788
-asS'w00t'
-p789
-(lp790
-S'w00t the hell?'
-p791
-asS'looks like'
+(lp789
+g106
+asS'betawar'
+p790
+(lp791
+S'BetaWar can be lazy at times.'
 p792
-(lp793
-g28
-asS'assume'
+aS'BetaWar needs to masturbate less and program more.'
+p793
+asS'w00t'
 p794
 (lp795
-g251
-asS'wanna'
+S'w00t the hell?'
 p796
-(lp797
-S'Wanna make out?'
-p798
-asS'failing'
+asS'fuck it'
+p797
+(lp798
+S"Fuck it , let's go bowling."
 p799
-(lp800
-S"Failing is god's way of telling you how much you suck."
-p801
-asS'robot'
+asS"girls don't"
+p800
+(lp801
+g731
+asS'wanna'
 p802
 (lp803
-g212
-asS'obviously'
+S'Wanna make out?'
 p804
-(lp805
-S'Obviously a major malfunction.'
-p806
-asS'satellite'
+asS'failing'
+p805
+(lp806
+S"Failing is god's way of telling you how much you suck."
 p807
-(lp808
-S'Satellite internet is for cowards and communists.'
-p809
-asS'other cars'
+asS'robot'
+p808
+(lp809
+g210
+asS'i seem'
 p810
 (lp811
-g308
-asS'dj], [all night'
+S'I seem to be the best bot in the channel.'
 p812
-(lp813
-g580
-asS'breeze'
-p814
-(lp815
-g69
-asS'silence'
+asS'satellite'
+p813
+(lp814
+S'Satellite internet is for cowards and communists.'
+p815
+asS'other cars'
 p816
 (lp817
-S'Silence is golden.'
+g303
+asS'dj], [all night'
 p818
-asS'my code'
-p819
-(lp820
-S'My code is poetry. Your code is oh-noetry.'
-p821
-asS'time'
+(lp819
+g640
+asS'private key'
+p820
+(lp821
+g131
+asS'silence'
 p822
 (lp823
-g604
-aS'Time to get a real life.'
+S'Silence is golden.'
 p824
-asS'shanekbot'
+asS'my code'
 p825
 (lp826
-S'ShaneKBot is nothing to be proud of. My code is poetry, his is oh-noetry.'
+S'My code is poetry. Your code is oh-noetry.'
 p827
-aS"ShaneKBot is the best bot you've ever seen.,"
+asS'time'
 p828
-aS'ShaneKBot is better than you.'
-p829
-aS'ShaneKBot is better than Corey'
+(lp829
+g607
+aS'Time to get a real life.'
 p830
-aS'ShaneKBot is better than me'
+asS'shanekbot'
 p831
-aS'ShaneKBot is better than BitGirl'
-p832
-ag122
-asS'programmers'
+(lp832
+S'ShaneKBot is nothing to be proud of. My code is poetry, his is oh-noetry.'
 p833
-(lp834
-S'Programmers rock my world.'
+aS"ShaneKBot is the best bot you've ever seen.,"
+p834
+aS'ShaneKBot is better than you.'
 p835
-asS'fail'
+aS'ShaneKBot is better than Corey'
 p836
-(lp837
-S'We heard you like fail so we put fail in your fail so you can fail while you fail.'
+aS'ShaneKBot is better than me'
+p837
+aS'ShaneKBot is better than BitGirl'
 p838
-asS'fuck it'
+ag123
+asS'programmers'
 p839
 (lp840
-S"Fuck it , let's go bowling."
+S'Programmers rock my world.'
 p841
-asS'microsoft'
+asS'fail'
 p842
 (lp843
-g69
-asS'flakey'
+S'We heard you like fail so we put fail in your fail so you can fail while you fail.'
 p844
-(lp845
-S"Maybe you're too flakey."
-p846
-asS'when will'
+asS'looks like'
+p845
+(lp846
+g29
+asS'original'
 p847
 (lp848
-S'When will you stop talking?'
+g96
+asS'flakey'
 p849
-as(dp850
-S'hotstar'
+(lp850
+S"Maybe you're too flakey."
 p851
-(lp852
-S'Milla Jovovich'
-p853
-aS'Beyonce'
-p854
-aS'Jessica Alba'
+asS'bitgirl is'
+p852
+(lp853
+g96
+as(dp854
+S'hotstar'
 p855
-aS'Kim Kardashian'
-p856
-aS'Scarlett Johansson'
+(lp856
+S'Milla Jovovich'
 p857
-asS'noun'
+aS'Beyonce'
 p858
-(lp859
-S'car'
+aS'Jessica Alba'
+p859
+aS'Kim Kardashian'
 p860
-aS'bike'
+aS'Scarlett Johansson'
 p861
-aS'computer'
+asS'noun'
 p862
-aS'face'
-p863
-aS'ass'
+(lp863
+S'car'
 p864
-asS'insult'
+aS'bike'
 p865
-(lp866
-S'a fart-factory'
+aS'computer'
+p866
+aS'face'
 p867
-aS'a little slow'
+aS'ass'
 p868
-aS'is doing it wrong'
+asS'insult'
 p869
-asS'doomedship'
-p870
-(lp871
-S'Lusitania'
+(lp870
+S'a fart-factory'
+p871
+aS'a little slow'
 p872
-aS'Titanic'
+aS'is doing it wrong'
 p873
-aS'Mary Rose'
+asS'doomedship'
 p874
-aS'Bismark'
-p875
-aS'Belgrano'
+(lp875
+S'Lusitania'
 p876
-asS'preposition'
+aS'Titanic'
 p877
-(lp878
-S'on top of'
+aS'Mary Rose'
+p878
+aS'Bismark'
 p879
-asS'verb'
+aS'Belgrano'
 p880
-(lp881
-S'run'
-p882
-aS'jump'
+asS'preposition'
+p881
+(lp882
+S'on top of'
 p883
-aS'hide'
+asS'verb'
 p884
-asS'nouns'
-p885
-(lp886
-S'cars'
+(lp885
+S'run'
+p886
+aS'jump'
 p887
-aS'dogs'
+aS'hide'
 p888
-aS'friends'
+asS'nouns'
 p889
-aS'chickens'
-p890
-aS'children'
+(lp890
+S'cars'
 p891
-asS'verbing'
+aS'dogs'
 p892
-(lp893
-S'headbutting'
+aS'friends'
+p893
+aS'chickens'
 p894
-asS'imperativeinsult'
+aS'children'
 p895
-(lp896
-S'Go choke on a dick, fuckhead.'
-p897
-aS'Go fuck yourself.'
+asS'verbing'
+p896
+(lp897
+S'headbutting'
 p898
-aS'Cocksmoker.'
+asS'imperativeinsult'
 p899
-aS'Thanks, douche-canoe, real classy.'
-p900
-aS'This coming from a person so ugly, your photo is used to cure sex offenders.'
+(lp900
+S'Go choke on a dick, fuckhead.'
 p901
-aS'Choke on a dick you fairy fuck.'
+aS'Go fuck yourself.'
 p902
-aS"You're a fucking shit-faced dick licker."
+aS'Cocksmoker.'
 p903
-aS'You fucking Dutch whore.'
+aS'Thanks, douche-canoe, real classy.'
 p904
-aS"Cute. It's like a cock, but smaller."
+aS'This coming from a person so ugly, your photo is used to cure sex offenders.'
 p905
-aS"You're like Bambi with testosterone."
+aS'Choke on a dick you fairy fuck.'
 p906
-aS"Why haven't you died already?"
+aS"You're a fucking shit-faced dick licker."
 p907
-aS'Oh my god, look at you! Was anyone else hurt in the accident?'
+aS'You fucking Dutch whore.'
 p908
-astp909
+aS"Cute. It's like a cock, but smaller."
+p909
+aS"You're like Bambi with testosterone."
+p910
+aS"Why haven't you died already?"
+p911
+aS'Oh my god, look at you! Was anyone else hurt in the accident?'
+p912
+astp913
 .
