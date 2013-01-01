@@ -14,7 +14,7 @@
 # Path to the festival binary
 FESTIVAL = '/home/cgilbert/code/personal/festival/festival/bin/festival'
 # kal_diphone and rab_diphone are typical voices are both available in the
-# festival download section, ARCTIC voice databases, including the one below
+# festival download section. ARCTIC voice databases, including the one below
 # can be found at: http://www.speech.cs.cmu.edu/cmu_arctic/packed/
 VOICE = 'cmu_us_awb_arctic_clunits'
 
