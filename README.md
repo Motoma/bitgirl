@@ -3,7 +3,7 @@ Introducing bitgirl
 
 BitGirl is a fully pluggable IRC bot which allows dynamic command and module loading, unloading, and reloading on the fly, without rebooting. This allows for highly dynamic behavior with seamless updates, granting the plugin developer an extremely high turn around rate for the code-compile-test cycle.
 
-BitGirl was written as an entry to the Dream.In.Code IRC Competition (http://www.dreamincode.net/forums/topic/238097-irc-competition/).
+BitGirl was the winning entry to the Dream.In.Code IRC Competition (http://www.dreamincode.net/forums/topic/238097-irc-competition/).
 
 When started, she connects to irc.efnet.org and joins #MotomaBot. She then waits for commands to be sent to her via direct message.
 
